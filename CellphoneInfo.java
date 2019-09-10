@@ -16,7 +16,7 @@ class Cellphone
 		System.out.println("Enter your sms : ");
 		String sms = scan.nextLine();
 		System.out.println("Sending your sms...");
-		try
+		try //just to add some delay for user convinience
 		{
 			Thread.sleep(2000);
 		}
