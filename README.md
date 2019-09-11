@@ -11,6 +11,8 @@ Examples of use - To view the samsung's features.
 
 Project status - completed
 
+size of project : 8.9kb
+
 Setup : 
 To run this project, install jdk8 - 
 1)sudo apt install default-jre
