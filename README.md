@@ -13,7 +13,7 @@ Project status - completed
 
 size of project : 8.9kb
 
-plateform : ubuntu 16.04
+platform : ubuntu 16.04
 
 Setup : 
 To run this project, install jdk8 - 
