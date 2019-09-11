@@ -330,6 +330,7 @@ public class CellphoneInfo{
 			}
 			System.out.println("Do you want try other cellphones (y/n): ");
 			c = scan.next().charAt(0);
-		}while(c=='y');
+		}
+		while(c=='y');
 	}
 }
