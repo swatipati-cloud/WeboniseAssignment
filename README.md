@@ -22,6 +22,7 @@ To run this project, install jdk8 -
 
 Execution:
 To run this project steps: 
+a)On linux - 
 1) Open terminal
 2) javac CellphoneInfo.java
 3) java CellphoneInfo
@@ -29,3 +30,13 @@ To run this project steps:
 5) Select the function of that selected cellphone
 6) After execution of functionality say y if you want to continue with next functionality else n
 7) After execution of one phone say y if you want to continue with next smartphone else n
+
+b)On Windows - 
+1) Open cmd
+2) javac CellphoneInfo.java
+3) java CellphoneInfo
+4) Select the cellphone
+5) Select the function of that selected cellphone
+6) After execution of functionality say y if you want to continue with next functionality else n
+7) After execution of one phone say y if you want to continue with next smartphone else n
+
